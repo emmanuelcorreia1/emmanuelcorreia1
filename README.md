@@ -9,20 +9,6 @@ Qualidade: testes automatizados com xUnit
 Front-end: TypeScript, React e Next.js, sempre pensando primeiro no celular
 Dados e deploy: PostgreSQL e Netlify
 
-``
-public sealed record Desenvolvedor
-{
-    public string Nome  { get; } = "Emmanuel Correia";
-    public string Cargo { get; } = "Desenvolvedor Full Stack";
-
-    public string[] BackEnd  { get; } = ["C#", ".NET 8", "xUnit", "PostgreSQL"];
-    public string[] FrontEnd { get; } = ["TypeScript", "React", "Next.js", "Tailwind CSS"];
-    public string[] Praticas { get; } = ["Modelagem de domínio", "Testes", "PWA", "Mobile-first"];
-
-    public string Missao => "Transformar problemas reais em software simples e útil.";
-}
-``
-
 # Tecnologias
 
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cnodejs%2Cpostgres%2Chtml%2Ccss%2Cgit%2Cvscode%2Cvisualstudio%2Cnetlify&theme=dark&perline=8"> <img src="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cnodejs%2Cpostgres%2Chtml%2Ccss%2Cgit%2Cvscode%2Cvisualstudio%2Cnetlify&theme=light&perline=8" alt="C#, .NET, TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, Node.js, PostgreSQL, HTML, CSS, Git, VS Code, Visual Studio e Netlify"> </picture> </p>
