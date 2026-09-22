@@ -4,10 +4,10 @@
 
 Sou desenvolvedor full stack e gosto de construir software que resolve problemas: de uma biblioteca financeira em .NET a um app de alerta de enchentes que continua funcionando sem internet.
 
-Back-end: C# e .NET 8, com atenção à modelagem de domínio (entidades, interfaces, value objects e exceções próprias)
-Qualidade: testes automatizados com xUnit
-Front-end: TypeScript, React e Next.js, sempre pensando primeiro no celular
-Dados e deploy: PostgreSQL e Netlify
+- Back-end: C# e .NET 8, com atenção à modelagem de domínio (entidades, interfaces, value objects e exceções próprias)
+- Qualidade: testes automatizados com xUnit
+- Front-end: TypeScript, React e Next.js, sempre pensando primeiro no celular
+- Dados e deploy: PostgreSQL e Netlify
 
 # Tecnologias
 
