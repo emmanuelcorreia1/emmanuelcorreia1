@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=18181B&height=200&section=header&text=Emmanuel%20Correia&fontColor=FAFAFA&fontSize=58&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=64&animation=fadeIn" width="100%" alt="Emmanuel Correia, Desenvolvedor Full Stack"> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Back-end+com+C%23+e+.NET;Front-end+com+React%2C+Next.js+e+TypeScript;Transformando+problemas+reais+em+software" alt="Back-end com C# e .NET. Front-end com React, Next.js e TypeScript. Transformando problemas reais em software."> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=emmanuelcorreia1&label=visitas&color=7c3aed&style=flat-square" alt="Visitas ao perfil"> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=18181B&height=200&section=header&text=Emmanuel%20Scharnoskil%20Correia&fontColor=FAFAFA&fontSize=58&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=64&animation=fadeIn" width="100%" alt="Emmanuel Correia, Desenvolvedor Full Stack"> </p> 
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Back-end+com+C%23+e+.NET;Front-end+com+React%2C+Next.js+e+TypeScript;Transformando+problemas+reais+em+software" alt="Back-end com C# e .NET. Front-end com React, Next.js e TypeScript. Transformando problemas reais em software."> </p> 
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=emmanuelcorreia1&label=visitas&color=7c3aed&style=flat-square" alt="Visitas ao perfil"> </p>
 
 # Sobre mim
 
